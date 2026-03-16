@@ -77,13 +77,13 @@ ACTUALIZACION_PUESTOS = {
     # "Defensores centrales": "14/08/2025",
     # "Laterales": "2025-08-10",
     # Dejá vacío "" para los que aún no actualizaste
-    "Defensores centrales": "15/12/2025",
-    "Laterales": "15/12/2025",
-    "Volantes defensivos": "15/12/2025",
-    "Volantes mixtos": "15/12/2025",
-    "Volantes ofensivos": "15/12/2025",
-    "Extremos": "15/12/2025",
-    "Delanteros centrales": "15/12/2025",
+    "Defensores centrales": "12/3/2026",
+    "Laterales": "12/3/2026",
+    "Volantes defensivos": "12/3/2026",
+    "Volantes mixtos": "12/3/2026",
+    "Volantes ofensivos": "12/3/2026",
+    "Extremos": "12/3/2026",
+    "Delanteros centrales": "12/3/2026",
 }
 
 # (Opcional) Garantizamos que existan todas las claves y en el orden de PUESTOS
